@@ -1,0 +1,55 @@
+[
+  {
+    "module_code": "ops20_2",
+    "module_label": "OPS 20.2 - Gap Analysis - Identifies performance shortfall; consists of comparative analysis record.",
+    "module_title": "Gap Analysis - Identifies performance shortfall; consists of comparative analysis record.",
+    "module_slug": "gap_analysis_identifies_performance_shortfall_consists_of_comparative_analysis_record",
+    "app_code": "ops20",
+    "app_label": "OPS 20 - Continuous Process Improvement",
+    "bundle_code": "ops",
+    "source_md_path": "doc/rnd/plugs/ops/ops1.md"
+  },
+  {
+    "module_code": "ops20_5",
+    "module_label": "OPS 20.5 - Impact Measurement - Evaluates results; consists of before/after performance comparison.",
+    "module_title": "Impact Measurement - Evaluates results; consists of before/after performance comparison.",
+    "module_slug": "impact_measurement_evaluates_results_consists_of_before_after_performance_comparison",
+    "app_code": "ops20",
+    "app_label": "OPS 20 - Continuous Process Improvement",
+    "bundle_code": "ops",
+    "source_md_path": "doc/rnd/plugs/ops/ops1.md"
+  },
+  {
+    "module_code": "ops20_4",
+    "module_label": "OPS 20.4 - Improvement Implementation - Applies change; consists of approved modification transaction.",
+    "module_title": "Improvement Implementation - Applies change; consists of approved modification transaction.",
+    "module_slug": "improvement_implementation_applies_change_consists_of_approved_modification_transaction",
+    "app_code": "ops20",
+    "app_label": "OPS 20 - Continuous Process Improvement",
+    "bundle_code": "ops",
+    "source_md_path": "doc/rnd/plugs/ops/ops1.md"
+  },
+  {
+    "module_code": "ops20_1",
+    "module_label": "OPS 20.1 - KPI Monitoring - Tracks operational performance; consists of aggregated metric records.",
+    "module_title": "KPI Monitoring - Tracks operational performance; consists of aggregated metric records.",
+    "module_slug": "kpi_monitoring_tracks_operational_performance_consists_of_aggregated_metric_records",
+    "app_code": "ops20",
+    "app_label": "OPS 20 - Continuous Process Improvement",
+    "bundle_code": "ops",
+    "source_md_path": "doc/rnd/plugs/ops/ops1.md"
+  },
+  {
+    "module_slug": "ops20_5"
+  },
+  {
+    "module_code": "ops20_3",
+    "module_label": "OPS 20.3 - Root Cause Analysis - Determines underlying cause; consists of structured investigation record.",
+    "module_title": "Root Cause Analysis - Determines underlying cause; consists of structured investigation record.",
+    "module_slug": "root_cause_analysis_determines_underlying_cause_consists_of_structured_investigation_record",
+    "app_code": "ops20",
+    "app_label": "OPS 20 - Continuous Process Improvement",
+    "bundle_code": "ops",
+    "source_md_path": "doc/rnd/plugs/ops/ops1.md"
+  }
+]
